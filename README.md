@@ -1,18 +1,25 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=fdfcfc&height=120&text=Juhong's%20Github&animation=&fontColor=000000&fontSize=60" />
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          </div>
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://velog.io/@juehong123/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@juehong123/posts"> </a>
-         <a href=https://blog.naver.com/iimjuhong> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/iimjuhong"> </a>
-         <a href=mailto:juehong9253@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:juehong9253@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
+# Hi there 👋, I'm Ju-hong Im!
 
+### 🚀 Aspiring Autonomous Driving & Robotics Engineer
+저는 전기공학과 자동차 SW 융합전공을 공부하며, 인지(Perception)와 제어(Control) 기술에 깊은 관심을 가지고 있습니다.
+
+- 🎓 **Major:** Electrical Engineering & Automotive Software Convergence
+- 🔭 **Currently working on:** Autonomous Driving algorithms with **ROS2** & **Deep Learning**
+- 🌱 **Learning:** SLAM, Sensor Fusion, Embedded Systems 
+- 💬 **Ask me about:** Python, C++, Computer Vision (YOLO)
+
+<br/>
+
+## 🛠 Tech Stack
+
+### **Languages**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+
+### **AI & Computer Vision**
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+
+### **Robotics & Embedded**
+<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+
+### **Tools**
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
