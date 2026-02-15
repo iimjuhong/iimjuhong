@@ -17,8 +17,8 @@
   <br>
   🚗 자율주행 인지(Perception)와 제어(Control) 기술에 깊은 관심<br>
   👁️ Computer Vision & Deep Learning<br>
-  📡 Sensor Fusion & SLAM<br>
-  ⚡ Embedded AI Systems (Jetson)
+  📡 Sensor Fusion<br>
+  ⚡ Embedded AI Systems
 
   <br><br>
 
