@@ -6,7 +6,7 @@ I'm Ju-hong Lim!
 - 🎓 **Major:** Electrical Engineering & Automotive Software Convergence
 - 🔭 **Currently working on:** Autonomous Driving algorithms with **ROS2** & **Deep Learning**
 - 🌱 **Learning:** SLAM, Sensor Fusion, Embedded Systems (Jetson)
-- 💬 **Ask me about:** Python, C++, Computer Vision (YOLO)
+- 💬 **Ask me about:** Python, C, Computer Vision (YOLO)
 
 <br/>
 
