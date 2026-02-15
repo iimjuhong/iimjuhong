@@ -13,7 +13,7 @@
 
 ## 🎓 About Me
 
-> **Hanyang University** - Electrical Engineering & Automotive SW Convergence
+**Hanyang University** - Electrical Engineering & Automotive SW Convergence
 
 - 🚗 자율주행 인지(Perception)와 제어(Control) 기술에 깊은 관심
 - 👁️ Computer Vision & Deep Learning 전문
