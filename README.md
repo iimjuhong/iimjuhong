@@ -15,9 +15,9 @@
 **Hanyang University** - Electrical Engineering & Automotive SW Convergence
 
 - 🚗 자율주행 인지(Perception)와 제어(Control) 기술에 깊은 관심
-- 👁️ Computer Vision & Deep Learning 전문
-- 📡 Sensor Fusion (RGB + LiDAR) 연구
-- ⚡ Embedded AI Systems (NVIDIA Jetson) 개발
+- 👁️ Computer Vision & Deep Learning
+- 📡 Sensor Fusion
+- ⚡ Embedded AI Systems
 
 ---
 
@@ -27,7 +27,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
