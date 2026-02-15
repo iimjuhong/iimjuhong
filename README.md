@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ju-hong Lim!
+I'm Ju-hong Lim!
 
 ### 🚀 Aspiring Autonomous Driving & Robotics Engineer
 저는 전기공학과 자동차 SW 융합전공을 공부하며, 인지(Perception)와 제어(Control) 기술에 깊은 관심을 가지고 있습니다.
