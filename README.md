@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ju-hong Lim!
 
-### 🚗 Autonomous Driving Engineer | 🤖 Computer Vision Specialist
+### 🚗 Autonomous Driving | 🤖 Computer Vision 
 
 [![GitHub followers](https://img.shields.io/github/followers/iimjuhong?label=Follow&style=social)](https://github.com/iimjuhong)
 
