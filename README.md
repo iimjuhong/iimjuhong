@@ -4,7 +4,6 @@
 
 ### 🚗 Autonomous Driving Engineer | 🤖 Computer Vision Specialist
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiimjuhong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://github.com/iimjuhong)
 [![GitHub followers](https://img.shields.io/github/followers/iimjuhong?label=Follow&style=social)](https://github.com/iimjuhong)
 
 </div>
