@@ -36,8 +36,6 @@
   <h3>🚗 Autonomous Driving & Robotics</h3>
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white">
   <img src="https://img.shields.io/badge/CARLA-000000?style=for-the-badge&logo=carla&logoColor=white">
-  <img src="https://img.shields.io/badge/Gazebo-FF7300?style=for-the-badge&logo=gazebo&logoColor=white">
-  <img src="https://img.shields.io/badge/PCL-11557C?style=for-the-badge&logo=pointcloudlibrary&logoColor=white">
   <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
   <img src="https://img.shields.io/badge/RoadRunner-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
 
