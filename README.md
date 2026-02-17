@@ -74,9 +74,6 @@
 
   <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iimjuhong&theme=tokyonight" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iimjuhong&layout=compact&theme=tokyonight">
-
   <br><br>
 
   <h2>📫 Contact Me</h2>
