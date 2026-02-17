@@ -47,6 +47,8 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black">
+  <img src="https://img.shields.io/badge/Transformer-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white">
+
 
   <br>
 
